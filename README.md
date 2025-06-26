@@ -1,60 +1,78 @@
 <p align="center">
-  <a href="https://github.com/K-0x4b" style="text-decoration: none; color: inherit; font-size: 36px; font-weight: bold;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=500&color=E0E0E0&center=true&width=700&lines=K-0x4b" alt="K-0x4b" />
-  </a>
+  <img src="https://socialify.git.ci/K-0x4b/K-0x4b/image?font=Inter&name=1&owner=1&pattern=Plus&theme=Dark" alt="K-0x4b" width="640" height="320" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=E0E0E0&center=true&width=700&lines=Turning+Ideas+into+Code;Exploring+Game+Dev+%26+Low-Level+Programming;Building+%26+Breaking+Things+for+Fun" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://komarev.com/ghpvc/?username=K-0x4b&style=flat-square&color=brightgreen" alt="profile views"/>
+  <img src="https://img.shields.io/badge/arch-btw-blue?logo=arch-linux&style=flat-square" />
 </p>
 
 ---
 
-### 🚀 Tech Stack & Tools:
-
-#### **Languages & Frameworks**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Tools & Engines**  
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-#### **Dev Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-0x4b&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-0x4b&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-0x4b&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+```yaml
+# 🤖🦠 K-0x4b.yaml — Manifest of a 17yo code lifeform
+identity:
+  handle: "K-0x4b"
+  pronouns: "he/him"
+  alignment: "Chaotic Good"
+  occupation: "Student | Professional Bug Magnet"
+  location: "/home/$USER/"
+skills:
+  - Java: "over 9000"
+  - C++: "rookie, but dangerous"
+  - Python: "scripts & memes"
+  - Godot: "summons chaos"
+  - Bash: "shell sorcery"
+tools:
+  - Neovim
+  - Arch Linux (btw)
+  - Git
+  - Spotify (for essential coding jams)
+quirks:
+  - "Debugs by staring at the screen, hoping for enlightenment"
+  - "Ships features at 3AM, regrets at 3:05AM"
+  - "Memes in production? Absolutely."
+philosophy: |
+  # If it runs, ship it.
+  # If it doesn't, blame cosmic rays.
+fun_fact: "My code has more TODOs than comments."
+currently_listening: "Lo-fi fans (the actual fans, not followers)"
+```
 
 ---
 
-### 🌐 Connect with Me:
+## 🚀 Tech Stack
+
+- **Languages:** Java, C++, Python, JavaScript, Godot
+- **Tools:** Neovim, Arch Linux, Git, Bash, Spotify
+
+---
+
+## 📊 Stats & Activity
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.reddit.com/user/K-0x4b">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=K-0x4b&show_icons=true&theme=tokyonight&hide_border=true" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-0x4b&layout=compact&theme=tokyonight&hide_border=true" height="120">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-0x4b&theme=tokyonight&hide_border=true" height="120">
+</p>
+
+---
+
+```bash
+# how_to_summon.sh
+curl https://github.com/K-0x4b
+# or just open a PR, issue, or drop your best meme here
+```
+
+---
+
+<p align="center">
+  <b>Warning:</b> Side effects of reading this README may include spontaneous laughter, sudden urge to code, and questioning reality.<br>
+  PRs and memes always welcome! 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
