@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/K-0x4b/K-0x4b/image?font=Inter&name=1&owner=1&pattern=Plus&theme=Dark" alt="K-0x4b" width="640" height="320" />
+  <img src="https://socialify.git.ci/0x-4b/0x-4b/image?font=Inter&name=1&owner=1&pattern=Plus&theme=Dark" alt="K-0x4b" width="640" height="320" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ---
 
 ```yaml
-# 🤖🦠 K-0x4b.yaml — Manifest of a 17yo code lifeform
+# 🤖🦠 0x-4b.yaml — Manifest of a 17yo code lifeform
 identity:
-  handle: "K-0x4b"
+  handle: "0x-4b"
   pronouns: "he/him"
   alignment: "Chaotic Good"
   occupation: "Student | Professional Bug Magnet"
@@ -51,18 +51,18 @@ currently_listening: "Lo-fi fans (the actual fans, not followers)"
 ## 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-0x4b&show_icons=true&theme=tokyonight&hide_border=true" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-0x4b&layout=compact&theme=tokyonight&hide_border=true" height="120">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x-4b&show_icons=true&theme=tokyonight&hide_border=true" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-4b&layout=compact&theme=tokyonight&hide_border=true" height="120">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-0x4b&theme=tokyonight&hide_border=true" height="120">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-4b&theme=tokyonight&hide_border=true" height="120">
 </p>
 
 ---
 
 ```bash
 # how_to_summon.sh
-curl https://github.com/K-0x4b
+curl https://github.com/0x-4b
 # or just open a PR, issue, or drop your best meme here
 ```
 
