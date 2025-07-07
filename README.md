@@ -52,11 +52,13 @@ currently_listening: "Lo-fi fans (the actual fans, not followers)"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x-4b&show_icons=true&theme=tokyonight&hide_border=true" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-4b&layout=compact&theme=tokyonight&hide_border=true" height="120">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-4b&layout=compact&theme=tokyonight&hide_border=true" height="155">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-4b&theme=tokyonight&hide_border=true" height="120">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-4b&theme=tokyonight&hide_border=true" height="145">
 </p>
+
+
 
 ---
 
