@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://socialify.git.ci/0x-4b/0x-4b/image?font=Inter&name=1&owner=1&pattern=Plus&theme=Dark" alt="K-0x4b" width="640" height="320" />
 </p>
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=K-0x4b&style=flat-square&color=brightgreen" alt="profile views"/>
   <img src="https://img.shields.io/badge/arch-btw-blue?logo=arch-linux&style=flat-square" />
